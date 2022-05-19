@@ -8,3 +8,4 @@ Template NPC for AzerothCore 3.3.5
 
 Video Showcase:
 https://streamable.com/yxv1m
+use
